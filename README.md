@@ -1,1 +1,1 @@
-<img src="https://github-profile-trophy.vercel.app/?username=RikiyaFujii&theme=juicyfresh&no-bg=true" />
+<img align="left" width="390" alt="" src="https://github.com/RikiyaFujii/RikiyaFujii/blob/main/metrics1.svg">
