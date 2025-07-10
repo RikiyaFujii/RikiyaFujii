@@ -1,14 +1,13 @@
 # https://metrics.lecoq.io/
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
-# on:
-#   schedule:
-#     - cron: '0 0/12 * * *'
-#   workflow_dispatch:
-#   push:
-#     branches:
-#       - main
-on: [pull_request]
+on:
+  # schedule:
+  #   - cron: '0 0/12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   github-metrics:
