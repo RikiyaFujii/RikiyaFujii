@@ -21,7 +21,7 @@ jobs:
 
           filename: metrics1.svg
           user: RikiyaFujii
-          template: repository
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
           config_twemoji: yes
